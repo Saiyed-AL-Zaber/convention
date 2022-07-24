@@ -9,16 +9,34 @@
   width: 3rem;
   height: 3rem;
 }
-.second-img{
-    object-position: bottom;
+.second-img {
+  object-position: bottom;
 }
-.third-img{
+.third-img {
   opacity: 1;
 }
-.carousel-indicators [data-bs-target]{
-    width: 2.5rem;
-    height: 4px;
+.carousel-indicators [data-bs-target] {
+  width: 2.5rem;
+  height: 4px;
 }
-.carousel-btn{
-  padding:13px 35px !important;
+.carousel-btn {
+  padding: 13px 35px !important;
+}
+/* custom-style-for-featured-section */
+#featured-section {
+  margin-top: 90px !important;
+  margin-bottom: 90px !important;
+}
+.featured-text {
+  position: relative;
+}
+.fa-gift{
+  color: rgb(25, 87, 255);
+}
+.toast {
+  width: 220px;
+  border-left: 5px solid rgb(10, 47, 151);
+  position: absolute;
+  top: 30%;
+  left: 60%;
 }
