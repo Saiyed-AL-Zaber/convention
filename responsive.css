@@ -42,7 +42,10 @@
     left: 30%;
   }
   /* media-query-for-package-and-review-section */
-  .review-header, .package-header{
-    margin: 10px 20px !important;
+  .review-header, .package-header, .question-header{
+    margin: 20px 20px !important;
+  }
+  #question-section{
+    margin: 20px 0;
   }
 }

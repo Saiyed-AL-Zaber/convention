@@ -44,7 +44,7 @@
 #package-section{
   margin: 60px 80px;
 }
-.package-header, .review-header{
+.package-header, .review-header, .question-header{
   color: #0A0826;
   margin: 100px 0px;
 }
@@ -57,4 +57,8 @@
 /* review-section-start-here */
 #review-section{
   margin: 50px 20px;
+}
+/* question-section-start-here */
+#question-section{
+  margin: 80px 0;
 }
