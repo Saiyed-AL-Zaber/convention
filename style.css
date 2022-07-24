@@ -44,9 +44,17 @@
 #package-section{
   margin: 60px 80px;
 }
+.package-header, .review-header{
+  color: #0A0826;
+  margin: 100px 0px;
+}
 .fa-circle-check{
   background: rgba(82, 67, 194, 0.103693);
   color: 
   #5243C2;
   border-radius: 50%;
+}
+/* review-section-start-here */
+#review-section{
+  margin: 50px 20px;
 }

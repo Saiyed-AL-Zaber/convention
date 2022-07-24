@@ -41,4 +41,8 @@
     top: -25%;
     left: 30%;
   }
+  /* media-query-for-package-and-review-section */
+  .review-header, .package-header{
+    margin: 10px 20px !important;
+  }
 }
