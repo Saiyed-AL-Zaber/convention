@@ -1,5 +1,18 @@
 @media screen and (min-width: 768px) {
     .carousel-caption{
-      padding: 4rem 8rem !important;
+      padding: 3.5rem 8rem !important;
     }
+}
+
+@media screen and (max-width: 576px) {
+    .carousel-item img{
+        height: 50vh;
+        width: 100vw;
+        object-fit: cover;
+        object-position: bottom;
+      }
+    .carousel-item h1{
+        font-size: 1.2rem;
+        padding: max(1rem);
+      }
 }
