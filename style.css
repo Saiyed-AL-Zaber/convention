@@ -1,0 +1,24 @@
+/* custom-style-for-carousel */
+.carousel-item img {
+  height: 80vh;
+  width: 100vw;
+  object-fit: cover;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 3rem;
+  height: 3rem;
+}
+.second-img{
+    object-position: bottom;
+}
+.third-img{
+  opacity: 1;
+}
+.carousel-indicators [data-bs-target]{
+    width: 2.5rem;
+    height: 4px;
+}
+.carousel-btn{
+  padding:13px 35px !important;
+}
