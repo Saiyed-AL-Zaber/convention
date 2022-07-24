@@ -32,6 +32,9 @@
   .carousel-btn {
     padding: 8px 20px !important;
   }
+  #package-section{
+    margin: 60px 40px;
+  }
   /* media-query-for-featured-section */
   #featured-section {
     margin-top: 40px !important;
@@ -39,7 +42,7 @@
   }
   .toast {
     top: -25%;
-    left: 30%;
+    left: 15%;
   }
   /* media-query-for-package-and-review-section */
   .review-header, .package-header, .question-header{
