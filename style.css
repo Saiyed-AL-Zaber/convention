@@ -1,4 +1,7 @@
-/* custom-style-for-carousel */
+.margin{
+  margin-top: 5rem;
+}
+/* * custom-style-for-carousel */
 .carousel-item img {
   height: 80vh;
   width: 100vw;
@@ -12,8 +15,8 @@
 .second-img {
   object-position: bottom;
 }
-.third-img {
-  opacity: 1;
+.third-img{
+  object-position:right center;
 }
 .carousel-indicators [data-bs-target] {
   width: 2.5rem;
